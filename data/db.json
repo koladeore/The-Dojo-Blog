@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit body of the blog to learn composition api with vue",
+      "tags": [
+        "webDev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top css tips",
+      "body": "Lorem ipsum dolor sit body of the blog to learn composition api with vue",
+      "tags": [
+        "webDev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "title": "app",
+      "body": "build the app",
+      "tags": [
+        "css",
+        "html"
+      ],
+      "id": 3
+    },
+    {
+      "title": "developer",
+      "body": "the best developer in 2021",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 4
+    },
+    {
+      "title": "ggg",
+      "body": "ffffffffffff",
+      "tags": [
+        "3333"
+      ],
+      "id": 5
+    },
+    {
+      "title": "the dev",
+      "body": "the developers today are very good",
+      "tags": [
+        "dev"
+      ],
+      "id": 6
+    }
+  ]
+}
